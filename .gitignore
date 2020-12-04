@@ -42,7 +42,6 @@ typings
 .nyc_output
 
 # We use yarn.lock
-package-lock.json
 
 # Website stuff
 /website/build
